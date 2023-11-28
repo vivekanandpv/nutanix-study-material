@@ -1,0 +1,13 @@
+DDD by Eric Evans: https://www.youtube.com/watch?v=pMuiVlnGqjk&pp=ygUKZXJpYyBldmFucw%3D%3D
+DDD Books: 
+https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/
+https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/
+
+SOLID principles: https://www.youtube.com/watch?v=zHiWqnTWsn4&pp=ygUQc29saWQgcHJpbmNpcGxlcw%3D%3D
+Uncle Bob books:
+Summary: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+https://www.oreilly.com/library/view/clean-coder-the/9780132542913/
+
+Design Patterns Book: https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+OOAD book: https://www.oreilly.com/library/view/object-design-roles/0201379430/
